@@ -1,0 +1,21 @@
+#cont-pergunta {
+  display: flex;
+  width: 100%;
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  border: 2px solid rgb(213, 196, 161);
+  background-color: #a89984;
+}
+
+#cont-pergunta:hover {
+  cursor: pointer;
+}
+
+.alternativa {
+  padding: 1.5rem 2rem;
+  background-color: #928374;
+}
+
+.pergunta {
+  padding: 1.5rem;
+}
